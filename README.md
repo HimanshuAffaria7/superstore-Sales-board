@@ -13,7 +13,7 @@ An interactive Power BI dashboard built using the Sample Superstore dataset to e
 
 ## 📁 Dataset
 
-- **Source**: [Sample Superstore Dataset](https://community.tableau.com/s/sample-superstore)
+- **Source**: [Sample Superstore Dataset](SuperStore_Sales_Dataset.csv)
 - **Format**: CSV
 - Includes transactional sales data such as order date, segment, category, shipping mode, location, and payment type.
 
