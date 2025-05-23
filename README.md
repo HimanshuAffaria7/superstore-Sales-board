@@ -44,7 +44,7 @@ To view and interact with the dashboard:
 
 ## 🎥 Demo Video
 
-https://github.com/yourusername/yourrepo/blob/main/media/demo.mp4
+(https://drive.google.com/file/d/1gFk_XAiQQyotC5F97UgR6AuGeqrgKcXJ/view?usp=sharing)
 
 ## 📌 Key Insights
 
