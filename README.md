@@ -42,6 +42,10 @@ To view and interact with the dashboard:
 
 ![Superstore Forecasting Dashboard](./superstore2.png)
 
+## 🎥 Demo Video
+
+https://github.com/yourusername/yourrepo/blob/main/media/demo.mp4
+
 ## 📌 Key Insights
 
 - **Highest Sales**: West region and Consumer segment
